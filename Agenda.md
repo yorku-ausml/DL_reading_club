@@ -13,7 +13,7 @@ The followings are the presenters whom Prof. Gunho Sohn invited to give a presen
   - 11:00 - 11:20 - Object detection  part 2 (**Thao Tran**)
     - https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html    
   - 11:20 - 11:30 - Q&A
-  - 11:30 - 11:50 - Weakly supervised and university bounding box regression (**Jacob Yoo**)
+  - 11:30 - 11:50 - Weakly supervised and universal bounding box regression (**Jacob Yoo**)
     - Zhang, C.H., Cao, Y.H. and Wu, J., 2020. Rethinking the route towards weekly supervised object localization. arXiv:2002.11359v2 [cs.CV] 3 Mar 2020.
     - Lee, S., Kwak, S. and Cho, M., 2019. Universal bounding box regression and its applications. arXiv:1904.06805v1 [cs.CV] 15 Apr 2019. 
   - 11:50 - 12:00 - Q&A
@@ -105,8 +105,15 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am June 5 (Fri) 2020
 
+#### Professor:
+  - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+<br>
 
-
+#### Jacob:
+  - Weakly supervised and universal bounding box regression
+<br>
+<br>
+<br>
 
 
 
