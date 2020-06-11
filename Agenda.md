@@ -107,7 +107,6 @@ It will help you to design your deep sampling.
 
 #### Professor:
   - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
-<br>
 
 #### Jacob:
   - Weakly supervised and universal bounding box regression
@@ -126,7 +125,6 @@ It will help you to design your deep sampling.
 
 #### Peter:
   - M2Det: A single-short object detector based on multi-level feature pyramid
-<br>
 
 #### Maryam
   - Net++: 
