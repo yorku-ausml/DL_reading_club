@@ -1,5 +1,5 @@
 # Deep Learning Reading Club
 
-### [Agenda](./Agenda.md)
+### [Agenda](./agenda.md)
 
 
