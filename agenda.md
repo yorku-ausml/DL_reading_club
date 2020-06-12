@@ -127,7 +127,6 @@ It will help you to design your deep sampling.
   - M2Det: A single-short object detector based on multi-level feature pyramid
 
 #### Maryam
-  - Net++: 
   - UNet++: A nested U-Net architecture
   - ANU-Net: attention-based nested U-Net to exploit full resolution
 <br>
