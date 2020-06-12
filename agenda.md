@@ -126,7 +126,7 @@ It will help you to design your deep sampling.
 #### Peter:
   - M2Det: A single-short object detector based on multi-level feature pyramid
 
-#### Maryam
+#### Maryam:
   - UNet++: A nested U-Net architecture
   - ANU-Net: attention-based nested U-Net to exploit full resolution
 <br>
@@ -136,8 +136,41 @@ It will help you to design your deep sampling.
 
 
 
+<!---
+########################################################################################################################################################################
+########################################################################################################################################################################
+-->
+
+# Agenda for 10am June 19 (Fri) 2020
+
+#### Avin: panoptic segmentation
+  - AdaptIS: Adaptive Instance Selection Network
+
+#### Brian:
+  - TBD
+  
+<br>
+<br>
+<br>
 
 
+
+<!---
+########################################################################################################################################################################
+########################################################################################################################################################################
+-->
+
+# Agenda for 10am June 26 (Fri) 2020
+
+#### Zahra:
+  - TBD
+
+#### Afnan:
+  - TBD
+  
+<br>
+<br>
+<br>
 
 
 
