@@ -147,8 +147,7 @@ It will help you to design your deep sampling.
   - AdaptIS: Adaptive Instance Selection Network
 
 #### Brian:
-  - TBD
-  
+  - Improved Road Connectivity by Joint Learning of Orientation and Segmentation  
 <br>
 <br>
 <br>
@@ -166,8 +165,7 @@ It will help you to design your deep sampling.
   - TBD
 
 #### Afnan:
-  - TBD
-  
+  - TBD  
 <br>
 <br>
 <br>
