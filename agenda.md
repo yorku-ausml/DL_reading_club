@@ -143,7 +143,7 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am June 19 (Fri) 2020
 
-#### Avin: panoptic segmentation
+#### Avin:
   - [UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor](https://arxiv.org/abs/1907.04011)
   - [Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://arxiv.org/abs/1912.10615)
 
