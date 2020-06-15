@@ -144,10 +144,11 @@ It will help you to design your deep sampling.
 # Agenda for 10am June 19 (Fri) 2020
 
 #### Avin: panoptic segmentation
-  - AdaptIS: Adaptive Instance Selection Network
+  - [UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor](https://arxiv.org/abs/1907.04011)
+  - [Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://arxiv.org/abs/1912.10615)
 
 #### Brian:
-  - Improved Road Connectivity by Joint Learning of Orientation and Segmentation  
+  - [Improved Road Connectivity by Joint Learning of Orientation and Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Batra_Improved_Road_Connectivity_by_Joint_Learning_of_Orientation_and_Segmentation_CVPR_2019_paper.pdf)
 <br>
 <br>
 <br>
