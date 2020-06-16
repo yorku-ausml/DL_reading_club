@@ -146,7 +146,6 @@ It will help you to design your deep sampling.
 #### Avin:
   - [UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor](https://arxiv.org/abs/1907.04011)
   - [Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://arxiv.org/abs/1912.10615)
-<br>
   - Unsupervised learning of depth and Ego-motion from video
   - D3VO-Deep depth, deep pose and deep uncertainty for monocular visual odometry (CVPR 2020)
   - Digging into self-supervised monocular depth estimation (ICCV2019)
