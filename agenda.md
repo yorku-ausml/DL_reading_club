@@ -165,12 +165,10 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am June 26 (Fri) 2020
 
-#### Zahra:
-  - TBD
-
-#### Afnan:
-  - TBD  
-<br>
+#### Maryam:
+  - Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition 
+  - Learning to Segment 3D Point Clouds in 2D Image Space 
+  - Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks
 <br>
 <br>
 
