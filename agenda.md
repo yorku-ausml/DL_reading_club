@@ -144,8 +144,6 @@ It will help you to design your deep sampling.
 # Agenda for 10am June 19 (Fri) 2020
 
 #### Avin:
-  - [UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor](https://arxiv.org/abs/1907.04011)
-  - [Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://arxiv.org/abs/1912.10615)
   - Unsupervised learning of depth and Ego-motion from video
   - D3VO-Deep depth, deep pose and deep uncertainty for monocular visual odometry (CVPR 2020)
   - Digging into self-supervised monocular depth estimation (ICCV2019)
@@ -169,6 +167,14 @@ It will help you to design your deep sampling.
   - Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition 
   - Learning to Segment 3D Point Clouds in 2D Image Space 
   - Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks
+
+#### Brian:
+  - SuperPoint: Self-Supervised Interest Point Detection and Description
+  - [UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor](https://arxiv.org/abs/1907.04011)
+  
+### etc:
+  - [Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://arxiv.org/abs/1912.10615)
+<br>
 <br>
 <br>
 
