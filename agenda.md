@@ -169,6 +169,7 @@ It will help you to design your deep sampling.
   - Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks
 
 #### Brian:
+  - LIFT: Learned Invariant Feature Transform
   - SuperPoint: Self-Supervised Interest Point Detection and Description
   - [UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor](https://arxiv.org/abs/1907.04011)
   
