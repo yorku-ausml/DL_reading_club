@@ -143,7 +143,7 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am June 19 (Fri) 2020
 
-#### Avin:
+#### Amin:
   - Unsupervised learning of depth and Ego-motion from video
   - D3VO-Deep depth, deep pose and deep uncertainty for monocular visual odometry (CVPR 2020)
   - Digging into self-supervised monocular depth estimation (ICCV2019)
