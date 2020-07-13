@@ -189,8 +189,8 @@ It will help you to design your deep sampling.
 # Agenda for 10am July 17 (Fri) 2020
 
 #### Hyungju
-  - TBD
-
+  - TextureFusion: High-Quality Texture Acquisition for Real-Time RGB-D Scanning
+  
 #### Thao
   - TBD
 <br>
