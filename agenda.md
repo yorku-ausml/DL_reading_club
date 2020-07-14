@@ -192,7 +192,7 @@ It will help you to design your deep sampling.
   - TextureFusion: High-Quality Texture Acquisition for Real-Time RGB-D Scanning
   
 #### Thao
-  - TBD
+  - [You Only Annotate Once, and maybe never](https://lidchallenge.github.io/slides/lidworkshopcvpr-1.pdf)
 <br>
 <br>
 <br>
@@ -210,7 +210,7 @@ It will help you to design your deep sampling.
   - TBD
 
 #### Zhen
-  - TBD
+  - SuperGlue: Learning Feature Matching with Graph Neural Networks
 <br>
 <br>
 <br>
