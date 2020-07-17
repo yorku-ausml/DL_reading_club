@@ -207,7 +207,7 @@ It will help you to design your deep sampling.
 # Agenda for 10am July 24 (Fri) 2020
 
 #### Kamran
-  - TBD
+  - [Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://arxiv.org/abs/1912.01756)
 
 #### Zhen
   - SuperGlue: Learning Feature Matching with Graph Neural Networks
