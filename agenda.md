@@ -210,7 +210,7 @@ It will help you to design your deep sampling.
   - [Conv-MPN: Convolutional Message Passing Neural Network for Structured Outdoor Architecture Reconstruction](https://arxiv.org/abs/1912.01756)
 
 #### Zhen
-  - SuperGlue: Learning Feature Matching with Graph Neural Networks
+  - [A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization](https://arxiv.org/pdf/1903.07414.pdf)
 <br>
 <br>
 <br>
