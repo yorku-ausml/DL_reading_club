@@ -224,11 +224,9 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am July 31 (Fri) 2020
 
-#### Prof. Gunho Sohn
-  - TBD
-
 #### Jacob
-  - TBD
+  - Point cloud semantic segmentation trend analysis
+	- PointNet, PointNet++, PointWeb, Point Attention Network, RandLA
 <br>
 <br>
 <br>
@@ -242,10 +240,7 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 7 (Fri) 2020
 
-#### Amin
-  - TBD
-
-#### Brian
+#### Prof. Gunho Sohn
   - TBD
 <br>
 <br>
@@ -261,10 +256,10 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 14 (Fri) 2020
 
-#### Peter
+#### Amin
   - TBD
 
-#### Maryam
+#### Brian
   - TBD
 <br>
 <br>
@@ -279,10 +274,10 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 21 (Fri) 2020
 
-#### Jungwon
+#### Peter
   - TBD
 
-#### Afnan
+#### Maryam
   - TBD
 <br>
 <br>
@@ -298,7 +293,10 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 28 (Fri) 2020
 
-#### Lab Workshop
+#### Jungwon
+  - TBD
+
+#### Afnan
   - TBD
 <br>
 <br>
