@@ -243,7 +243,10 @@ It will help you to design your deep sampling.
 #### Prof. Gunho Sohn
   - TBD
   
-#### (Maybe) Amin and Brian
+#### (Maybe) Amin
+  - TBD
+
+#### (Maybe) Brian
   - TBD
 <br>
 <br>
