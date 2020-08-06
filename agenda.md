@@ -242,6 +242,9 @@ It will help you to design your deep sampling.
 
 #### Prof. Gunho Sohn
   - TBD
+  
+#### (Maybe) Amin and Brian
+  - TBD
 <br>
 <br>
 <br>
@@ -256,10 +259,10 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 14 (Fri) 2020
 
-#### Amin
+#### (Maybe) Amin
   - TBD
 
-#### Brian
+#### (Maybe) Brian
   - TBD
 <br>
 <br>
