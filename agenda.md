@@ -262,11 +262,8 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 14 (Fri) 2020
 
-#### (Maybe) Amin
-  - TBD
-
-#### (Maybe) Brian
-  - TBD
+#### Maryam
+  - Modeling Local Geometric Structure of 3D Point Clouds using Geo-CNN
 <br>
 <br>
 <br>
@@ -281,9 +278,6 @@ It will help you to design your deep sampling.
 # Agenda for 10am Aug 21 (Fri) 2020
 
 #### Peter
-  - TBD
-
-#### Maryam
   - TBD
 <br>
 <br>
