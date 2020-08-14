@@ -293,7 +293,11 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 28 (Fri) 2020
 
-TBD
+#### Jungwon
+  - TBD
+
+#### Afnan
+  - TBD
 <br>
 <br>
 <br>
