@@ -278,7 +278,7 @@ It will help you to design your deep sampling.
 # Agenda for 10am Aug 21 (Fri) 2020
 
 #### Peter
-  - TBD
+  - M2m: Imbalanced Classification via Major-to-minor Translation
 <br>
 <br>
 <br>
@@ -293,7 +293,7 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 28 (Fri) 2020
 
-TBD
+#### Amin
 <br>
 <br>
 <br>
