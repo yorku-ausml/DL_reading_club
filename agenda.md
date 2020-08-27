@@ -293,7 +293,11 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Aug 28 (Fri) 2020
 
-#### Amin
+#### Jungwon
+  - Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection
+<br>
+  
+#### Hyungju
 <br>
 <br>
 <br>
