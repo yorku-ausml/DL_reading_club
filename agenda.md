@@ -298,6 +298,7 @@ It will help you to design your deep sampling.
 <br>
   
 #### Hyungju
+  - Summary of [SAIAD CVPR workshop](https://sites.google.com/view/saiad2020/)
 <br>
 <br>
 <br>
@@ -311,7 +312,7 @@ It will help you to design your deep sampling.
 
 # Agenda for 10am Sept 4 (Fri) 2020
 
-Workshop
+We don't have the meeting.
 <br>
 <br>
 <br>
