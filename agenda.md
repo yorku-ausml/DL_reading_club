@@ -6,7 +6,7 @@ The followings are the presenters whom Prof. Gunho Sohn invited to give a presen
   - 10:00 - 10:20 - Bounding-box-based object detection introduction (**Gunho Sohn**)
     - Zhao, Z.Q., 2019. Object detection with deep learning: A review. arXiv:1807.05511v2 [cs.CV] 16 Apr 2019.
   - 10:20 - 10:30 - Q&A
-  - 10:30 - 10:50 - Object detection part 1 (**Hyungjy Lee**)
+  - 10:30 - 10:50 - Object detection part 1 (**Hyungju Lee**)
     - https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html
     - MathWorks. Anchor boxes for object detection. https://www.mathworks.com/help/vision/ug/anchor-boxes-for-object-detection.html. (accessed on May 16th, 2020)  
   - 10:50 - 11:00 - Q&A
